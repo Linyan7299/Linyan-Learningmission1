@@ -11,3 +11,5 @@
 1. 使用 C++ 编译器完成 HelloWorld 的编译，熟悉文件包含的操作流程，并将其与 .py 文件放在同一目录。
 
 2. 学习 Python 库（OpenCV）的使用，尝试调用摄像头完成相关任务。
+
+3. 下载anaconda + pytorch（GPU）与 ROS2完善编译环境。
