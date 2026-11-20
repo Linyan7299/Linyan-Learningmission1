@@ -13,3 +13,7 @@
 2. 学习 Python 库（OpenCV）的使用，尝试调用摄像头完成相关任务。
 
 3. 下载anaconda + pytorch（GPU）与 ROS2完善编译环境。
+
+## 三、运行示例
+
+![HelloWorld 运行效果](Run_Helloworld.png)
